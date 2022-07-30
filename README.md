@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veekibs!
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning javascript, python, html and sql.
+- 👀 I’m interested in programming and making my own projects.
+- 🌱 I’m currently learning javascript, python, html, css and sql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kibaaraeve@gmail.com
 
