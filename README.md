@@ -1,6 +1,6 @@
 - 👋 hi, i'm eve kibaara!
-- 👩🏽‍💻 i LOVE turning ideas into interactive web apps + i'm currently exploring front-end and back-end dev using javascript, java, & python
-- 🌱 i’m currently developing my skills in: python, java, & c (and a bit of dabbling in sql!)
+- 👩🏽‍💻 i LOVE turning messy ideas into polished interactive web/mobile apps + i'm currently exploring front-end and back-end dev using javascript, python & html/css
+- 🌱 i’m currently developing my skills in: react native, java, & django (and a bit of dabbling in vue!)
 - 📫 how to reach me: kibaaraeve@gmail.com
 
 <!---
